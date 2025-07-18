@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## Rider config
+.idea/
+
+## MacOS 
+.DS_Store
