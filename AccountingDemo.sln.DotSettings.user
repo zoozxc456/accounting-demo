@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AInvalidOperationException_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003F951ae8d4212555ed2042cdaab14de05c17e73221e3f5c17fc22282374a3cd_003FInvalidOperationException_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71492d0e_002D55e2_002D4e89_002Db8e8_002D5843a33a17fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="JournalEntryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Domain.JournalEntryTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Domain.AccountTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Domain.MoneyTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Application.RecordJournalEntryCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Application.CreateAccountCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Application.UpdateAccountNameCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Application.ReverseJournalEntryCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::E99D878E-084E-45B5-B4A8-C26969AC60BC::net8.0::Accounting.UnitTest.Application.JournalEntry.RecordJournalEntryCommandHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
